@@ -1,452 +1,183 @@
 <div align="center">
 
-  <!-- Pipeline Top Console Banner -->
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/4c2a40b7339d3c08e5eaefd0d798699918061617/Data/drag.png" alt="DevOps Terminal Banner" width="100%" height="260" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Anant%20Baviskar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%86%92%20DevOps%20Pirate%20%7C%20Sailing%20for%20the%20Grand%20Line&descAlignY=60&descSize=17" width="100%" alt="header" />
 
-  <br><br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F7B500&center=true&vCenter=true&width=700&lines=I+don%27t+want+to+conquer+anything.;I+just+want+to+ship+the+freest+pipeline+on+the+sea.;Zoro%27s+discipline.+Luffy%27s+dream.+Shanks%27+calm.;Linux+%E2%86%92+Docker+%E2%86%92+K8s+%E2%86%92+Cloud.+One+island+at+a+time." alt="typing" />
+</a>
 
-  <!-- Animated Terminal Typing SVG -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=1200&color=00FF9F&center=true&vCenter=true&width=1000&height=60&lines=%24+init_node+--identity%3DAnant_Baviskar+--account%3Darbaviskar02;%24+status%3A+Data+Science+Grad+%7C+C-DAC+DevOps+Engineer;%24+mission%3A+Building+Resilient+Cloud+Pipelines;%24+stack%3A+Linux+%2B+Docker+%2B+K8s+%2B+IaC+%2B+CI%2FCD;" alt="Terminal Header Typing" />
-  </p>
+<br><br>
 
-  <p align="center">
-    <a href="https://github.com/arbaviskar02"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-arbaviskar02-181717?style=flat-square&logo=github" /></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/anant-baviskar-b07b25236"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anant%20Baviskar-0A66C2?style=flat-square&logo=linkedin" /></a>
-    &nbsp;
-    <a href="https://anant-portfolio-infinity.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-anant--portfolio--infinity-000?style=flat-square&logo=vercel" /></a>
-    &nbsp;
-    <a href="https://github.com/Infinity0077"><img alt="Data Science Hub" src="https://img.shields.io/badge/Data%20Science-Infinity0077-FFB13B?style=flat-square&logo=python" /></a>
-  </p>
+<img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/zoro.png?raw=true" width="170" alt="Zoro" />
+&nbsp;&nbsp;
+<img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/luffy.png?raw=true" width="170" alt="Luffy" />
+&nbsp;&nbsp;
+<img src="https://github.com/Infinity0077/Infinity0077/blob/d6358d0e5824d168230079ac68f6c8fc8a613210/shanks.png?raw=true" width="200" alt="Shanks" />
 
-  <!-- Visual Character Anchors -->
-  <br>
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/zoro.png" alt="Roronoa Zoro" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/luffy.png" alt="Monkey D Luffy" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/d6358d0e5824d168230079ac68f6c8fc8a613210/shanks.png" alt="Shanks" width="220" />
+<sub><b>Discipline</b> &nbsp;·&nbsp; <b>Dream</b> &nbsp;·&nbsp; <b>Presence</b></sub>
 
-  <br><br>
+<br>
 
-  ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                    ARBAVISKAR02 / CORE ENGINE                   ║
-  ║         Data Science Algorithms → DevOps Infrastructure         ║
-  ║                  "Code, Deploy, Monitor, Scale"                 ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  ```
+[![GitHub](https://img.shields.io/badge/DevOps-arbaviskar02-F7B500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/arbaviskar02)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Infinity0077-C0392B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Infinity0077)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anant%20Baviskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-baviskar-b07b25236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anant-portfolio-infinity.vercel.app)
 
 </div>
 
 ---
 
-## 📑 Quick Navigation
+## 🏴‍☠️ WANTED
 
-<details open>
-<summary><b>🗂️ Table of Contents</b></summary>
-
-- [🎯 About Me](#-about-me)
-- [🔧 Tech Stack](#-tech-stack)
-- [📚 C-DAC Learning Path](#-cdac-learning-roadmap)
-- [🚀 Featured Projects](#-featured-projects)
-- [💡 Skills & Expertise](#-skills--expertise)
-- [🏆 Achievements & Certifications](#-achievements--certifications)
-- [📊 Repository Stats](#-repository-stats)
-- [📞 Get In Touch](#-get-in-touch)
-
-</details>
-
----
-
-## 🎯 About Me
-
-```yaml
-╔══════════════════════════════════════════════════════════════════════════╗
-║                        SYSTEM INITIALIZATION                            ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-User Identity    : Anant Ravi Baviskar
-Handle           : @arbaviskar02 (DevOps & Cloud) | @Infinity0077 (Data Science)
-Location         : Pune, Maharashtra, India 🇮🇳
-Current Role     : C-DAC Trainee | DevOps Engineer in Progress
-Academic Base    : B.Tech in Computer Science (Data Science) — RCPIT Shirpur
-CGPA             : 7.16/10.0
-
-╔══════════════════════════════════════════════════════════════════════════╗
-║                           CORE PHILOSOPHY                               ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-  "Data is the blood flowing through systems, but infrastructure is the 
-   circulatory system that keeps everything alive and resilient."
-
-  Transition: Data Science Algorithms → Production-Grade DevOps Pipelines
-  
-  ✨ My Mission: Build containerized, automated, cloud-native solutions 
-                 that transform raw algorithms into scalable systems.
-
-╔══════════════════════════════════════════════════════════════════════════╗
-║                      RUNTIME ENVIRONMENT SPECS                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-💻 Primary Machine    : HP Victus 16" [AMD Ryzen | NVIDIA RTX]
-⚡ OS                 : Linux Kernel (Dual-Boot) + WSL2 Dev Environment
-🖥️  Editor Stack      : VS Code [Tokyo Night Theme] | Neovim | Vim
-🎵 Productivity Audio : Phonk • Synthwave • Chill Instrumentals
-📺 Inspiration        : One Piece • Jujutsu Kaisen • BTTH • Soul Land
-
+```text
+┌──────────────────────────────────────────┐
+│               W A N T E D                │
+│                                          │
+│   NAME     : Anant "The Pipeline" B.     │
+│   CREW     : C-DAC (PG-DAC) Trainee      │
+│   FRUIT    : Data-Data no Mi (Python/ML) │
+│   CRIME    : Turning notebooks into      │
+│              deployed services           │
+│   LAST SEEN: Terminal, Tokyo Night theme │
+│                                          │
+│   BOUNTY   : ∞ (still rising)            │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## 🔧 Tech Stack
+## 🍈 My Devil Fruit
 
-### 🐧 **OS & Shell Scripting**
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-[![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
-[![Shell](https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
-[![Zsh](https://img.shields.io/badge/Zsh-0D0D0D?style=for-the-badge&logo=shell)](https://www.zsh.org)
-[![AWK](https://img.shields.io/badge/AWK-Sed%2FGrep-red?style=for-the-badge)](https://www.gnu.org/software/gawk)
+> I ate the **Data-Data no Mi** in college: B.Tech in Computer Science (Data Science) at RCPIT Shirpur. I trained on regression, NLP and time-series on the **East Blue**.
+>
+> Now I'm crossing into the **Grand Line**, where models only matter if they *run, scale and survive production*. So I'm learning **Linux, containers, CI/CD, Kubernetes and cloud**, one island at a time.
 
-**Expertise:** Process management • Namespace hardening • Cron automation • System diagnostics • Memory profiling • User access policies
-
----
-
-### 📊 **Data Science & Analytics (Legacy Foundation)**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![NLP](https://img.shields.io/badge/NLP-NLTK%20%2F%20spaCy-green?style=for-the-badge)](https://www.nltk.org)
-
-**Expertise:** ML regression • Classification • NLP entity extraction • Time-series analysis • Data visualization • Statistical modeling
+<table>
+<tr>
+<td>🗺️ <b>Home port</b></td><td>Maharashtra, India</td>
+</tr>
+<tr>
+<td>⚓ <b>Current crew</b></td><td>C-DAC trainee</td>
+</tr>
+<tr>
+<td>🛠️ <b>Ship's computer</b></td><td>HP Victus · Linux dual-boot + WSL2</td>
+</tr>
+<tr>
+<td>🎧 <b>Battle music</b></td><td>Phonk · Synthwave · Chill instrumentals</td>
+</tr>
+</table>
 
 ---
 
-### 🐳 **Containerization & Orchestration**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+## 👒 The Crew (my stack, Straw Hat style)
 
-**Expertise:** Multi-stage Dockerfiles • Container security • Image optimization • Pod orchestration • StatefulSets • DaemonSets • Ingress controllers
+Every great ship needs a crew. Mine are tools.
 
----
-
-### 🔄 **CI/CD & Automation**
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd)
-
-**Expertise:** Declarative Jenkinsfiles • GitHub webhook automation • GitOps workflows • Code quality gates • Artifact management • Build optimization
+| Crew member | Role on the ship | What it really is |
+|:--|:--|:--|
+| 🏴‍☠️ **Luffy**, Captain | The dream and the engine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| ⚔️ **Zoro**, Swordsman | Three-sword style: shell, scripts, editor | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) |
+| 🍳 **Sanji**, Cook | Packs everything neatly into containers | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| 🎯 **Usopp**, Sniper | Long-range deploys, never misses a build | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| 🧭 **Nami**, Navigator | Reads the clouds (literally) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) |
+| 🔨 **Franky**, Shipwright | Builds infrastructure from blueprints | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| 📖 **Robin**, Archaeologist | Reads the hidden paths: DNS, proxies, TLS | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
+| 🩺 **Chopper**, Doctor | Health checks and monitoring | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| ☸️ **Jinbe**, Helmsman | *Kubernetes* literally means "helmsman" | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
 
 ---
 
-### ☁️ **Cloud & Infrastructure as Code**
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
-[![Ansible](https://img.shields.io/badge/Ansible-EE00FF?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com)
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudformation)
+## 🌊 Log Pose: my route across the Grand Line
 
-**Expertise:** EC2 • VPC • S3 • RDS • IAM policies • Infrastructure automation • State management • Multi-environment deployments
+My C-DAC DevOps track, told as a voyage.
 
----
-
-### 🔐 **Networking & Security**
-[![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
-[![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-000000?style=for-the-badge)](https://www.ssl.com)
-[![Firewall Rules](https://img.shields.io/badge/Firewall-UFW%2FiptablesE-red?style=for-the-badge)](https://help.ubuntu.com/community/UFW)
-[![DNS](https://img.shields.io/badge/DNS-Bind9%2FDNSMASQ-blue?style=for-the-badge)](https://www.bind9.net)
-
-**Expertise:** Reverse proxies • Load balancing • TCP/IP troubleshooting • SSL certificate automation • Firewall routing • Network diagnostics
+| Island | Saga | Skill unlocked | Status |
+|:--|:--|:--|:--:|
+| 🏝️ **East Blue** | Linux Core | Processes · permissions · cron · diagnostics | 🟡 Sailing |
+| 🏜️ **Alabasta** | Networking | TCP/IP · DNS · NGINX · TLS · firewalls | ⚪ Next |
+| 🔧 **Water 7** | Containers | Dockerfiles · layers · compose · networks | ⚪ Next |
+| ⚡ **Enies Lobby** | CI/CD | Jenkins · webhooks · SonarQube · quality gates | 🎯 Target |
+| 🌩️ **Marineford** | Kubernetes | Pods · services · ConfigMaps · HPA · Ingress | 🎯 Target |
+| 🏯 **Wano** | Cloud + IaC | Terraform · Ansible · AWS · GitOps | 🎯 Target |
+| 💎 **Laugh Tale** | The One Piece | A system I can ship, scale and explain | 🏁 Destination |
 
 ---
 
-## 📚 C-DAC Learning Roadmap
+## 🔥 Haki
 
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                    STRUCTURED DEVOPS MASTERY TRACK                        ║
-║              Centre for Development of Advanced Computing (C-DAC)         ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
+| Haki | In my world | Training progress |
+|:--|:--|:--|
+| 👁️ **Observation** | Reading logs, tracing bugs, seeing the failure before it happens | `▰▰▰▰▱` |
+| 🛡️ **Armament** | Hardening: permissions, non-root containers, least privilege | `▰▰▰▱▱` |
+| 👑 **Conqueror's** | Owning a project end to end: code → container → deploy | `▰▰▱▱▱` |
 
-| # | Stage | Focus Area | Key Topics | Status |
-|---|-------|-----------|-----------|--------|
-| **1️⃣** | **Linux Core** | OS Fundamentals | Process mgmt • Namespaces • Cron automation • Memory diagnostics • User hardening | ✅ **RUNNING** |
-| **2️⃣** | **Networking** | Network Stack | TCP/IP handshake • DNS config • NGINX reverse proxy • Load balancing • SSL/TLS • Firewalls | 🔄 **QUEUED** |
-| **3️⃣** | **Containers** | Containerization | Multi-stage Dockerfiles • Layer caching • Security benchmarks • Bridge networks • Docker-Compose | 🔄 **QUEUED** |
-| **4️⃣** | **CI/CD** | Build & Deploy | Jenkins declarative pipelines • GitHub webhooks • SonarQube analysis • Artifact storage • Code gates | 🎯 **TARGET** |
-| **5️⃣** | **Kubernetes** | Orchestration | Pod deployments • Services • ConfigMaps • Persistent volumes • HPA • Ingress controllers • StatefulSets | 🎯 **TARGET** |
-| **6️⃣** | **Cloud & IaC** | Infrastructure | Terraform • Ansible playbooks • AWS resources (EC2/S3/VPC/RDS) • GitOps • State management | 🎯 **TARGET** |
+> Honest bars on purpose. The bounty only goes up if the training is real.
 
 ---
 
-## 🚀 Featured Projects
+## 📜 Ship's Log (projects)
 
-### 🐧 **CDAC System Labs** — Linux Internals & Automation
-*Mastering process management, security hardening, and system monitoring*
+| Project | Mission | Status |
+|:--|:--|:--:|
+| 🐧 **cdac-system-labs** | Bash monitors, permission audits, network triage scripts | 🟡 Active |
+| 🐳 **docker-blueprints** | Multi-stage Dockerfiles, FastAPI service, NGINX + app + DB compose | 🟡 Active |
+| 🔄 **ci-cd-workflows** | Jenkinsfiles and GitHub Actions pipelines | 🟡 In progress |
+| 📊 **data-foundation-legacy** | Resume matcher (NLP), AQI → health regression, honk-frequency maps | ✅ Done |
 
-```bash
-cdac-system-labs/
-├── 📜 bash-system-monitors/
-│   └── Real-time memory leak detection, disk usage alerts, dead process cleanup
-├── 🔐 permissions-hardening/
-│   └── User access policies, sudoers auditing, chown/chmod strategies
-└── 🌐 network-triage/
-    └── Automated ping sweeps, traceroute diagnostics, netstat port analysis
+Data Science route: `Notebook → Python module → Docker image → (soon) Kubernetes pod`
+
+---
+
+## ⚔️ Current Training Arc
+
+```text
+[ NOW      ]  Linux internals + shell automation
+[ NEXT     ]  Networking, then Docker deep-dive
+[ SOON     ]  Jenkins pipelines, Kubernetes, Terraform on AWS
+[ SIDE QUEST ]  Prometheus + Grafana, eBPF (just curious)
 ```
 
-**Key Scripts:**
-- `monitor-memory.sh` — Cron-based memory profiling with threshold alerts
-- `audit-permissions.sh` — Recursive permission review & hardening
-- `network-diagnostics.sh` — TCP state tracking & connection pooling analysis
-
-**Status:** ✅ Active Development | Production-Ready
-
 ---
 
-### 🐳 **Docker Blueprints** — Containerization Mastery
-*Production-grade multi-stage Dockerfiles with security & performance optimization*
-
-```bash
-docker-blueprints/
-├── 🤖 python-fastapi-service/
-│   └── Alpine-based FastAPI with ML inference, Redis caching, health checks
-└── 🔗 fullstack-compose/
-    └── NGINX reverse proxy → FastAPI app → PostgreSQL database cluster
-```
-
-**Technologies:**
-- ⚡ Alpine Linux (5MB base images)
-- 🚀 FastAPI with async handlers
-- 📦 Docker layer caching strategies
-- 🔒 Non-root user execution
-- 📊 Prometheus metrics integration
-
-**Status:** ✅ Complete | Ready for production deployment
-
----
-
-### 🔄 **CI/CD Workflows** — Automated Build & Deploy Pipelines
-*Declarative Jenkins pipelines & GitHub Actions orchestration*
-
-```bash
-ci-cd-workflows/
-├── 🔧 jenkins-pipelines/
-│   └── Declarative Jenkinsfiles: compile → test → build → push → deploy
-└── 🤖 github-automation/
-    └── PR linting • Dependency scanning • Container registry pushes • Code quality gates
-```
-
-**Pipeline Stages:**
-1. **Lint & Format** — ESLint, Black, Prettier
-2. **Security Scan** — OWASP, Dependabot, Snyk
-3. **Build & Test** — Unit & integration tests with coverage reports
-4. **Docker Build** — Multi-stage image builds with caching
-5. **Registry Push** — Docker Hub, ECR, or private registries
-6. **Deploy** — ArgoCD GitOps or manual kubectl apply
-
-**Status:** 🔄 In Progress | Framework ready, expanding coverage
-
----
-
-### 📊 **Data Foundation Legacy** — Proven Data Systems
-*ML models & analytics from @Infinity0077 transitioning to production pipelines*
-
-```bash
-data-foundation-legacy/
-├── 📝 resume-matcher-nlp/
-│   └── Text similarity (cosine), entity recognition, skill extraction from CVs
-├── 🏥 aqi-health-regression/
-│   └── Air quality index → hospital admissions multi-variate regression
-└── 🎵 honk-frequency-maps/
-    └── Acoustic signal processing, FFT analysis, Folium geospatial visualization
-```
-
-**Integration Path:** Jupyter notebooks → Python modules → Containerized services → K8s pods
-
-**Status:** ✅ Research Complete | Moving to production deployment
-
----
-
-## 💡 Skills & Expertise
-
-### 🎯 **Primary Competencies**
-
-| Domain | Proficiency | Key Skills |
-|--------|-------------|-----------|
-| **Linux Systems** | 🟢 Advanced | Kernel internals, systemd, cgroups, namespaces, SELinux |
-| **DevOps & Infra** | 🟢 Advanced | Docker, Kubernetes, Terraform, Jenkins, AWS |
-| **Data Science** | 🟢 Advanced | ML models, NLP, statistical analysis, Pandas, scikit-learn |
-| **CI/CD & Automation** | 🟡 Intermediate | GitOps, webhook automation, pipeline orchestration |
-| **Cloud Engineering** | 🟡 Intermediate | AWS (EC2, S3, RDS, VPC), IaC, multi-environment deployments |
-| **Networking** | 🟡 Intermediate | TCP/IP, DNS, NGINX, load balancing, SSL/TLS, firewalls |
-
-### 🔥 **Standout Strengths**
-
-✨ **Systems Thinking** — Bridging algorithms with infrastructure  
-✨ **Automation Mindset** — "If it runs once, it should run always"  
-✨ **Production-Ready Code** — Security, monitoring, scalability built-in  
-✨ **Rapid Learning** — New tools, languages, frameworks within days  
-✨ **Problem Solving** — Debugging at kernel, container, and orchestration layers  
-
----
-
-## 🏆 Achievements & Certifications
-
-### 🥇 **Hackathons & Competitions**
-- 🥈 **2nd Place** — RCPIT Machine Learning Hackathon
-- 🏆 **Finalist** — Multiple data science competitions
-
-### 📜 **Certifications & Badges**
-- ☁️ **AWS Educate Cloud Computing 101** — Amazon Web Services
-- 📊 **Google Data Analytics Professional Certificate** — Google Career Certificates
-- 🔐 **Linux Foundation Essentials** — In Progress
-
-### 🚀 **Notable Projects**
-- ✅ End-to-end ML pipeline automation (data ingestion → model deployment)
-- ✅ Multi-service Kubernetes cluster with ArgoCD GitOps
-- ✅ Production Jenkins CI/CD with security scanning & artifacts
-- ✅ Infrastructure as Code for AWS multi-environment setups
-
----
-
-## 📊 Repository Stats
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                    GITHUB PRESENCE & ACTIVITY                           ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+## 📊 Sea Chart (GitHub stats)
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbaviskar02&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/arbaviskar02)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arbaviskar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaviskar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaviskar02&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/arbaviskar02)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arbaviskar02&theme=tokyonight&hide_border=true)](https://github.com/arbaviskar02)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaviskar02&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
 </div>
 
 ---
 
-## 🌟 Recent Activity & Pinned Repos
+## 🍖 Pirate Code
 
-<details open>
-<summary><b>📌 Currently Working On</b></summary>
-
-- 🔨 **Kubernetes Deep Dive** — Building production-grade clusters with Helm charts
-- 🔨 **Terraform AWS Automation** — Multi-environment infrastructure provisioning
-- 🔨 **Advanced Jenkins Pipelines** — Parallel stages, artifact management, deployment strategies
-- 🔨 **Linux Kernel Modules** — Custom kernel modules for system monitoring
-
-</details>
-
-<details>
-<summary><b>🎓 Currently Learning</b></summary>
-
-- 📚 Kubernetes advanced patterns (Network policies, RBAC, Pod Security)
-- 📚 Terraform state management & module design
-- 📚 Prometheus & Grafana monitoring stack
-- 📚 eBPF (Extended Berkeley Packet Filter) for kernel tracing
-
-</details>
+- 💪 *Power comes in response to a need, not a desire.*
+- 🚀 *When the world shoves you around, you just gotta stand up and shove back.*
+- ⚙️ **Automate ruthlessly. Monitor obsessively. Scale gracefully.**
+- 🔧 Clarity over cleverness · Production-ready over hype · Learning over comfort
 
 ---
 
-## 📞 Get In Touch
+## 📡 Den Den Mushi (contact)
 
 <div align="center">
 
-### 🚀 Let's Connect & Collaborate!
+| 🐌 Channel | Link |
+|:--|:--|
+| 📧 Email | [baviskaranant7@gmail.com](mailto:baviskaranant7@gmail.com) |
+| 📧 DevOps mail | [arbaviskar02@gmail.com](mailto:arbaviskar02@gmail.com) |
+| 💼 LinkedIn | [anant-baviskar](https://www.linkedin.com/in/anant-baviskar-b07b25236) |
+| 🌐 Portfolio | [anant-portfolio-infinity.vercel.app](https://anant-portfolio-infinity.vercel.app) |
 
-| Channel | Link | Purpose |
-|---------|------|---------|
-| **Email (Primary)** | [baviskaranant7@gmail.com](mailto:baviskaranant7@gmail.com) | Professional inquiries |
-| **Email (DevOps)** | [arbaviskar02@gmail.com](mailto:arbaviskar02@gmail.com) | Technical discussions |
-| **LinkedIn** | [@anant-baviskar-b07b25236](https://www.linkedin.com/in/anant-baviskar-b07b25236) | Professional network |
-| **GitHub** | [@arbaviskar02](https://github.com/arbaviskar02) | Code & projects |
-| **Data Science Hub** | [@Infinity0077](https://github.com/Infinity0077) | ML & analytics |
-| **Portfolio** | [anant-portfolio-infinity.vercel.app](https://anant-portfolio-infinity.vercel.app) | Resume & projects |
+**Open to:** internships · DevOps / cloud roles · open-source collabs · study partners
 
-### 💬 Open For:
-✅ DevOps consulting & architecture reviews  
-✅ Kubernetes cluster design & optimization  
-✅ Data science to production pipeline guidance  
-✅ Mentoring junior engineers  
-✅ Collaboration on open-source DevOps projects  
+<br>
 
-</div>
+<sub>*"I'm gonna be King of the Pirates!"* ... and ship it with zero downtime.</sub>
 
----
-
-## 🎮 A Bit More About Me
-
-```yaml
-system_preferences:
-  
-  productivity_fuel:
-    genres: ["Phonk 🎵", "Synthwave 🌆", "Chill Instrumentals 🎹"]
-    active_rotation: 
-      - "Aura" (late-night coding sessions)
-      - "Matushka" (focus & flow state)
-      - "Odnogo" (debugging marathons)
-  
-  entertainment_stack:
-    anime:
-      - "One Piece" (inspiration: relentless pursuit of dreams)
-      - "Jujutsu Kaisen" (tactical thinking & adaptation)
-      - "Dragon Ball Z" (pushing beyond limits)
-      - "Black Clover" (overcoming disadvantages through effort)
-      - "Demon Slayer" (precision & discipline)
-      - "Bleach" (power through understanding)
-    
-    donghua:
-      - "Battle Through the Heavens" (BTTH) — system-building narrative
-      - "Throne of Seal" — strategic infrastructure
-      - "Soul Land" — evolution of systems
-      - "Tales of Herding Gods" — cosmic engineering
-  
-  guiding_principles:
-    - 💪 "Power comes in response to a need, not a desire."
-    - 🚀 "When the world shoves you around, you just gotta stand up & shove back."
-    - ⚙️ "Code is poetry. Infrastructure is the stage upon which it performs."
-    - 🔧 "Automate ruthlessly. Monitor obsessively. Scale gracefully."
-
-  personal_values:
-    - Continuous learning over comfort
-    - Production-ready over hype-driven
-    - Clarity over cleverness
-    - Resilience over fragility
-    - People over process
-
-```
-
----
-
-<div align="center">
-
-## ⚡ **"Building the circulatory system for data-driven enterprises"** ⚡
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║  Thank you for visiting my GitHub profile! If you found this interesting, ║
-║  feel free to star ⭐ the repos, open discussions, or reach out.          ║
-║                                                                            ║
-║     Remember: Every expert was once a beginner. Keep pushing forward! 🚀  ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=arbaviskar02&color=00FF9F&style=flat-square" alt="Profile Views" />
-
-**Last Updated:** September 2026 | Actively Contributing | Open for Opportunities 🎯
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
